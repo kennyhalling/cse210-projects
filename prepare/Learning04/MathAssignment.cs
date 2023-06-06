@@ -8,7 +8,8 @@ class MathAssignment : Assignment{
     }
 
     public string GetHomeworkList(){
-        return @$"{GetName()} --- {GetTopic()}
+        return @$"
+        {GetName()} --- {GetTopic()}
         Section {_section}, Problems {_problems}";
     }
 }
