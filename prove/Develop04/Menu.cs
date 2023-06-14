@@ -1,4 +1,4 @@
-class Menu{
+public class Menu{
     private int _userChoice;
     private bool _active = true;
 

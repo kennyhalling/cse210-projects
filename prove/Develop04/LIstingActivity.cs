@@ -1,4 +1,4 @@
-class ListingActivity : Activity{
+public class ListingActivity : Activity{
     private List<string> _categories;
     private List<string> _entries;
     private string _currentItem;

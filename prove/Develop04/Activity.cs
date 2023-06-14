@@ -1,4 +1,4 @@
-class Activity{
+public class Activity{
     private string _name;
     private string _startingMessage;
     private string _endingMessage;

@@ -1,4 +1,4 @@
-class BreathingActivity : Activity{
+public class BreathingActivity : Activity{
     private List<string> _prompts;
     private double _cycles;
     private double _oneBreath = 5;
